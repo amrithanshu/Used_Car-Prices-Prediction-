@@ -14,8 +14,8 @@ Dealers optimize pricing strategies
 Platforms increase trust in listings
 
 🔑 Project Phases
-**Phase 1: Domain Understanding
-**
+Phase 1: Domain Understanding
+
 Define Problem Statement: Predict used car prices.
 
 Understand business impact: Increase transparency in the used car market.
@@ -24,8 +24,8 @@ Identify domain terms & formulas: e.g., depreciation, mileage adjustment.
 
 Draft project architecture & workflow.
 
-**Phase 2: Data Collection & Analysis
-**
+Phase 2: Data Collection & Analysis
+
 Gather dataset (car listings with price and features).
 
 Explore features: brand, year, mileage, fuel type, transmission, etc.
@@ -34,8 +34,8 @@ Perform Exploratory Data Analysis (EDA).
 
 Define business & technical requirements.
 
-**Phase 3: Database & Reporting
-**
+Phase 3: Database & Reporting
+
 Store raw and processed data in a structured database.
 
 Clean and transform data based on requirements.
@@ -44,8 +44,8 @@ Create relationship graphs between features.
 
 Generate reports, dashboards, and summaries for insights.
 
-**Phase 4: Model Building & Evaluation
-**
+Phase 4: Model Building & Evaluation
+
 Preprocess data (handle missing values, encoding, scaling).
 
 Select features and target (Price).
@@ -60,8 +60,8 @@ Tune hyperparameters and select best model.
 
 Make predictions on unseen data.
 
-**Phase 5: Deployment
-**
+Phase 5: Deployment
+
 Deploy best model with Flask / FastAPI backend.
 
 Build simple user interface (UI) for predictions.
