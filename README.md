@@ -6,10 +6,7 @@ This project predicts used car prices based on historical datasets. It follows a
 📌 Business Problem
 
 Buying and selling used cars is a complex process influenced by multiple factors such as brand, model, mileage, year, fuel type, and more. An accurate price prediction model helps:
-
-Customers evaluate fair prices
-
-Dealers optimize pricing strategies
-
-Platforms increase trust in listings
+1. Customers evaluate fair prices
+2. Dealers optimize pricing strategies
+3. Platforms increase trust in listings
 
